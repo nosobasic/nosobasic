@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nosobasic
 - 👀 I’m interested in ... Building systems theat fasciltate existing processes
 - 🌱 I’m currently learning ... Backend Development with Frameworks(Ruby on Rails. Express.js, Flask)
-- 💞️ I’m looking to collaborate on ... Anything with likke-minded individuals
+- 💞️ I’m looking to collaborate on ... Anything with like-minded individuals
 - 📫 How to reach me ... wdonte97@gmail.com or nosobasic on Discord
 - 😄 Pronouns: ... HE/Him
 - ⚡ Fun fact: ... I like making music
